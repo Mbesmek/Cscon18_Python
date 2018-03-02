@@ -15,5 +15,6 @@
 3- Kurulumu başlatmak için (Install Now)
 >![alt text](https://raw.githubusercontent.com/alifiratari/Cscon18_Python/master/img/2.png)
 
+4- Python Kurulumu Tamamlandı
 >![alt text](https://raw.githubusercontent.com/alifiratari/Cscon18_Python/master/img/3.png)
 
